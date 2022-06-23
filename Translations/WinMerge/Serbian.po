@@ -25,19 +25,19 @@ msgid "LANG_ENGLISH, SUBLANG_ENGLISH_US"
 msgstr "LANG_SERBIAN, SUBLANG_SERBIAN_CYRILLIC"
 
 msgid "Copy to Middle"
-msgstr ""
+msgstr "Умн&ожи у средину"
 
 msgid "C&opy to Right\tAlt+Right"
 msgstr "Умн&ожи у десну\tAlt+Right"
 
 msgid "Copy from Middle"
-msgstr ""
+msgstr ""Умн&ожи из средине"
 
 msgid "Copy fro&m Right\tAlt+Shift+Left"
-msgstr ""
+msgstr "Copy fro&m Right\tAlt+Shift+Left"
 
 msgid "Cop&y to Left\tAlt+Left"
-msgstr "Ум&ножи у леву\tAlt+Left"
+msgstr "Ум&ножи од десно\tAlt+Left"
 
 msgid "Copy &from Left\tAlt+Shift+Right"
 msgstr ""
